@@ -1,0 +1,17 @@
+{
+
+  "name": "ModuloPDF",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archivoapdf.js",
+  "scripts": {
+    "test": "archivoapdf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.12.1"
+  },
+  "type": "module"
+}
