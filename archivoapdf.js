@@ -12,7 +12,7 @@ class reserva {
     }
         generarPdf() {
     
-            doc.pipe(fs.createWriteStream('./' + '/nuevoo.pdf'));
+            doc.pipe(fs.createWriteStream('./' + '/ejemplo.pdf'));
 
             doc.font('Times-Roman')
                 .fontSize(18)
